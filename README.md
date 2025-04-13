@@ -1,10 +1,4 @@
 # MUST4Water Dynamic Water Stress Model (Vensim)
-## 🧭 Model Diagram
-
-Below is the high-level structure of the Vensim model.
-
-![Model Structure](docs/model_diagram.png)
-
 This repository contains the Vensim model developed for the MUST4Water project (Deliverable D1), titled `M4W_model_28062024.mdl`.
 
 ## 📘 Overview
