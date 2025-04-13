@@ -10,6 +10,15 @@ This repository contains the Vensim model developed for the MUST4Water project (
 ## 📘 Overview
 
 The model simulates hydrological and economic interactions in the Italian water system under climate and demand variability. It integrates both physical and institutional constraints into a system dynamics framework to evaluate sustainable water use strategies.
+## 💧 MUST4Water System Diagrams
+
+### 🔹 Water Supply Model
+
+<img src="docs/water_supply.svg" alt="Water Supply Diagram" width="800"/>
+
+### 🔹 Water Demand Model
+
+<img src="docs/water_demand.svg" alt="Water Demand Diagram" width="800"/>
 
 ### Key Features
 
