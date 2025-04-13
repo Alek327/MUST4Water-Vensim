@@ -61,6 +61,10 @@ For model structure, data sources, and methodology, refer to:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
+> 🔒 **Model Availability:**  
+> The full Vensim model file (`.mdl`) is currently withheld for confidentiality while the associated paper is under peer review.  
+> It will be released upon publication. For early access, please [contact the author](mailto:oleksandr.galychyn@gmail.com).
+
 
 
 
