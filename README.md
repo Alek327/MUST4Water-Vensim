@@ -36,7 +36,12 @@ The model simulates hydrological and economic interactions in the Italian water 
 
 ## 📈 Model Diagram
 
-*For visual reference, see `/docs/model_diagram.png` (if added).*
+*## 🧭 Model Diagram
+
+Below is the high-level structure of the Vensim model.
+
+![Model Structure](docs/model_diagram.png)
+
 
 ## 📚 Reference
 
